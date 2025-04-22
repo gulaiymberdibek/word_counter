@@ -6,7 +6,6 @@ This beginner project is a simple word counter written in the Go programming lan
 
 ## ⚙️ Technologies & Concepts Used
 
-- **Go (Golang)** – main programming language
 - **bufio** – for reading files line by line
 - **os** – to open and handle files
 - **strings** – for splitting lines into words
